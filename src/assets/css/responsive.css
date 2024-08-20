@@ -1,0 +1,4954 @@
+@media only screen and (max-width: 1700px) {
+    body{
+        overflow-x: hidden;
+    }
+    .container {
+        margin: 0 240px auto !important;
+    }
+
+    .container-1 {
+        margin: 0 240px !important;
+    }
+
+    .container-2 {
+        margin: 0 240px !important;
+    }
+
+    .container-3 {
+        margin: 0 240px !important;
+    }
+
+    .container-4 {
+        margin: 0 240px !important;
+    }
+    .home-ads-head {
+        width: 100%;
+        height: 100% !important;
+        /* flex-direction: column; */
+        gap: 80px !important;
+        box-sizing: border-box;
+        padding: 40px 20px;
+        flex-wrap: wrap;
+    }
+    .category-1 h2 {
+        font-size: 48px !important;
+        line-height: 55px !important;
+    }
+
+    .category-2 {
+        gap: 60px !important;
+        display: grid !important;
+        grid-template-columns: repeat(4, 1fr) !important;
+    }
+    .category-box {
+        width: 100% !important;
+        height: 100%;
+        text-align: center;
+        transition: all 0.5s ease-in-out;
+    }
+    .Romantic-1 img{
+        width: 100% ;
+    }
+    .Fast-2 img{
+        width: 100%;
+    }
+    .Fast-sub-head {
+        display: flex;
+        align-items: center;
+        gap: 68px !important;
+    }
+    .Promotion-1 {
+        position: absolute;
+        top: -63px !important;
+        right: -129px !important;
+        z-index: -1;
+    }
+    .Promotion-1 img{
+        width: 80%;
+    }
+    .Promotion-image {
+        display: flex;
+        align-items: center;
+        gap: 56px !important;
+        margin: 80px 0 0 0;
+    }
+    .wander-icon {
+        position: absolute;
+        top: 244px;
+        left: 629px !important;
+    }    
+    .Trending-1 {
+        width: 100%;
+        align-items: center;
+        display: grid;
+        grid-template-columns: repeat(3, 1fr) !important;
+        flex-wrap: wrap;
+        gap: 20px;
+        justify-content: center;
+        padding-bottom: 50px;
+        margin-bottom: 70px;
+    }
+    .Tour-Plans-head {
+        display: flex;
+        align-items: center;
+        gap: 58px !important;
+        margin: 107px 0;
+    }
+    .Tour-Plans-headimg img{
+        width: 400px;
+    }
+    .Tour-Plans-img {
+        display: none;
+    }
+    .Tour-Plans-img1 {
+        display: flex;
+        align-items: center;
+        gap: 43px !important;
+    }
+    /* .Trending-box-1 {
+        width: 90% !important;
+        height: 696px;
+    }
+    .Trending-box-1 img{
+        width: 100%;
+    } */
+    .Trending-sub-head {
+        display: flex;
+        width: 100%;
+        gap: 15px !important;
+        /* flex-direction: column; */
+
+    }
+    .PlanYourTrip {
+        width: 76% !important;
+        height: 50% !important;
+    }
+
+    .planinput h6 {
+        width: 100% !important;
+    }
+    .bookthistour-1 {
+        width: 100% !important;
+        height: 100%;
+    }
+    .bookthistour-1 input {
+        text-align: center !important;
+        width: 100%;
+    }
+    .tour-detail-head {
+        display: flex;
+        padding: 39px;
+        gap: 10px;
+        /* flex-direction: column; */
+    }
+    .tourform-group-1 {
+        width: 100% !important;
+        flex-direction: column;
+        height: 100% !important;
+    }
+}
+
+@media only screen and (max-width: 1400px) {
+    body{
+        overflow-x: hidden;
+    }
+    .container {
+        margin: 0 65px auto !important;
+    }
+
+    .container-1 {
+        margin: 0 65px !important;
+    }
+
+    .container-2 {
+        margin: 0 65px !important;
+    }
+
+    .container-3 {
+        margin: 0 65px !important;
+    }
+
+    .container-4 {
+        margin: 0 65px !important;
+    }
+    .nav-1-head {
+        display: flex;
+        align-items: center;
+        gap: 170px !important;
+    }
+    .home-ads-head {
+        width: 100%;
+        height: 100% !important;
+        /* flex-direction: column; */
+        gap: 80px !important;
+        box-sizing: border-box;
+        padding: 40px 20px;
+        flex-wrap: wrap;
+    }
+    .category-1 h2 {
+        font-size: 48px !important;
+        line-height: 55px !important;
+    }
+
+    .category-2 {
+        gap: 60px !important;
+        display: grid !important;
+        grid-template-columns: repeat(4, 1fr) !important;
+    }
+    .category-box {
+        width: 100% !important;
+        height: 100%;
+        text-align: center;
+        transition: all 0.5s ease-in-out;
+    }
+    .Romantic-1 img{
+        width: 100% ;
+    }
+    .Fast-2 img{
+        width: 100%;
+    }
+    .Fast-sub-head {
+        display: flex;
+        align-items: center;
+        gap: 68px !important;
+    }
+    .Promotion-1 {
+        position: absolute;
+        top: -63px !important;
+        right: -129px !important;
+        z-index: -1;
+    }
+    .Promotion-1 img{
+        width: 80%;
+    }
+    .Promotion-image {
+        display: flex;
+        align-items: center;
+        gap: 56px !important;
+        margin: 80px 0 0 0;
+    }
+    .wander-icon {
+        position: absolute;
+        top: 244px;
+        left: 629px !important;
+    }    
+    .Trending-1 {
+        width: 100%;
+        align-items: center;
+        display: grid;
+        grid-template-columns: repeat(3, 1fr) !important;
+        flex-wrap: wrap;
+        gap: 20px;
+        justify-content: center;
+        padding-bottom: 50px;
+        margin-bottom: 70px;
+    }
+    .Tour-Plans-head {
+        display: flex;
+        align-items: center;
+        gap: 58px !important;
+        margin: 107px 0;
+    }
+    .Tour-Plans-headimg img{
+        width: 400px;
+    }
+    .Tour-Plans-img {
+        display: none;
+    }
+    .Tour-Plans-img1 {
+        display: flex;
+        align-items: center;
+        gap: 43px !important;
+    }
+    /* .Trending-box-1 {
+        width: 90% !important;
+        height: 696px;
+    }
+    .Trending-box-1 img{
+        width: 100%;
+    } */
+    .Trending-sub-head {
+        display: flex;
+        width: 100%;
+        gap: 15px !important;
+        /* flex-direction: column; */
+
+    }
+    .PlanYourTrip {
+        width: 76% !important;
+        height: 50% !important;
+    }
+
+    .planinput h6 {
+        width: 100% !important;
+    }
+    .bookthistour-1 {
+        width: 100% !important;
+        height: 100%;
+    }
+    .bookthistour-1 input {
+        text-align: center !important;
+        width: 100%;
+    }
+    .tour-detail-head {
+        display: flex;
+        padding: 39px;
+        gap: 10px;
+        /* flex-direction: column; */
+    }
+    .tourform-group-1 {
+        width: 100% !important;
+        flex-direction: column;
+        height: 100% !important;
+    }
+}
+
+@media only screen and (max-width: 1300px) {
+    body{
+        overflow-x: hidden;
+    }
+    .container {
+        margin: 0 35px auto !important;
+    }
+
+    .container-1 {
+        margin: 0 35px !important;
+    }
+
+    .container-2 {
+        margin: 0 35px !important;
+    }
+
+    .container-3 {
+        margin: 0 35px !important;
+    }
+
+    .container-4 {
+        margin: 0 35px !important;
+    }
+    .nav-1-head {
+        display: flex;
+        align-items: center;
+        gap: 170px !important;
+    }
+    .home-ads-head {
+        width: 100%;
+        height: 100% !important;
+        /* flex-direction: column; */
+        gap: 80px !important;
+        box-sizing: border-box;
+        padding: 40px 20px;
+        flex-wrap: wrap;
+    }
+    .category-1 h2 {
+        font-size: 48px !important;
+        line-height: 55px !important;
+    }
+
+    .category-2 {
+        gap: 60px !important;
+        display: grid !important;
+        grid-template-columns: repeat(3, 1fr) !important;
+    }
+    .category-box {
+        width: 100% !important;
+        height: 100%;
+        text-align: center;
+        transition: all 0.5s ease-in-out;
+    }
+    .Romantic-1 img{
+        width: 100% ;
+    }
+    .Fast-2 img{
+        width: 100%;
+    }
+    .Fast-sub-head {
+        display: flex;
+        align-items: center;
+        gap: 68px !important;
+    }
+    .Promotion-1 {
+        position: absolute;
+        top: -63px !important;
+        right: -129px !important;
+        z-index: -1;
+    }
+    .Promotion-1 img{
+        width: 80%;
+    }
+    .Promotion-image {
+        display: flex;
+        align-items: center;
+        gap: 56px !important;
+        margin: 80px 0 0 0;
+    }
+    .wander-icon {
+        position: absolute;
+        top: 244px;
+        left: 592px !important;
+    }    
+    .Trending-1 {
+        width: 100%;
+        align-items: center;
+        display: grid;
+        grid-template-columns: repeat(3, 1fr) !important;
+        flex-wrap: wrap;
+        gap: 20px;
+        justify-content: center;
+        padding-bottom: 50px;
+        margin-bottom: 70px;
+    }
+    .Tour-Plans-head {
+        display: flex;
+        align-items: center;
+        gap: 58px !important;
+        margin: 107px 0;
+    }
+    .Tour-Plans-headimg img{
+        width: 400px;
+    }
+    .Tour-Plans-img {
+        display: none;
+    }
+    .Tour-Plans-img1 {
+        display: flex;
+        align-items: center;
+        gap: 43px !important;
+    }
+    /* .Trending-box-1 {
+        width: 90% !important;
+        height: 696px;
+    }
+    .Trending-box-1 img{
+        width: 100%;
+    } */
+    .Trending-sub-head {
+        display: flex;
+        width: 100%;
+        gap: 15px !important;
+        /* flex-direction: column; */
+
+    }
+    .PlanYourTrip {
+        width: 70% !important;
+        height: 50% !important;
+    }
+
+    .planinput h6 {
+        width: 100% !important;
+    }
+    .bookthistour-1 {
+        width: 100% !important;
+        height: 100%;
+    }
+    .bookthistour-1 input {
+        text-align: center !important;
+        width: 100%;
+    }
+    .tour-detail-head {
+        display: flex;
+        padding: 39px;
+        gap: 10px;
+        /* flex-direction: column; */
+    }
+    .tourform-group-1 {
+        width: 100% !important;
+        flex-direction: column;
+        height: 100% !important;
+    }
+}
+
+@media only screen and (max-width: 1200px) {
+    body{
+        overflow-x: hidden;
+    }
+    .container {
+        margin: 0 35px auto !important;
+    }
+
+    .container-1 {
+        margin: 0 35px !important;
+    }
+
+    .container-2 {
+        margin: 0 35px !important;
+    }
+
+    .container-3 {
+        margin: 0 35px !important;
+    }
+
+    .container-4 {
+        margin: 0 35px !important;
+    }
+    .nav-head {
+        display: flex;
+        align-items: center;
+        gap: 200px !important;
+    }
+    .nav-1-head {
+        display: flex;
+        align-items: center;
+        gap: 170px !important;
+    }
+    .home-ads-head {
+        width: 100%;
+        height: 100% !important;
+        /* flex-direction: column; */
+        gap: 80px !important;
+        box-sizing: border-box;
+        padding: 40px 20px;
+        flex-wrap: wrap;
+    }
+    .category-1 h2 {
+        font-size: 48px !important;
+        line-height: 55px !important;
+    }
+
+    .category-2 {
+        gap: 60px !important;
+        display: grid !important;
+        grid-template-columns: repeat(2, 1fr) !important;
+    }
+    .category-box {
+        width: 100% !important;
+        height: 100%;
+        text-align: center;
+        transition: all 0.5s ease-in-out;
+    }
+    .Romantic-1 img{
+        width: 100% ;
+    }
+    .Fast-2 img{
+        width: 100%;
+    }
+    .Fast-sub-head {
+        display: flex;
+        align-items: center;
+        gap: 68px !important;
+    }
+    .Promotion-1 {
+        position: absolute;
+        top: -63px !important;
+        right: -129px !important;
+        z-index: -1;
+    }
+    .Promotion-1 img{
+        width: 80%;
+    }
+    .Promotion-image {
+        display: flex;
+        align-items: center;
+        gap: 56px !important;
+        margin: 80px 0 0 0;
+    }
+    .Trending-1 {
+        width: 100%;
+        align-items: center;
+        display: grid;
+        grid-template-columns: repeat(2, 1fr) !important;
+        flex-wrap: wrap;
+        gap: 20px;
+        justify-content: center;
+        padding-bottom: 50px;
+        margin-bottom: 70px;
+    }
+    .Tour-Plans-head {
+        display: flex;
+        align-items: center;
+        gap: 58px !important;
+        margin: 107px 0;
+    }
+    .Tour-Plans-headimg img{
+        width: 400px;
+    }
+    .Tour-Plans-img {
+        display: none;
+    }
+    .Tour-Plans-img1 {
+        display: flex;
+        align-items: center;
+        gap: 43px !important;
+    }
+    /* .Trending-box-1 {
+        width: 90% !important;
+        height: 696px;
+    }
+    .Trending-box-1 img{
+        width: 100%;
+    } */
+    .Trending-sub-head {
+        display: flex;
+        width: 100%;
+        gap: 15px !important;
+        /* flex-direction: column; */
+
+    }
+    .PlanYourTrip {
+        width: 50% !important;
+        height: 100% !important;
+    }
+
+    .planinput h6 {
+        width: 100% !important;
+    }
+    .bookthistour-1 {
+        width: 100% !important;
+        height: 100%;
+    }
+    .bookthistour-1 input {
+        text-align: center !important;
+        width: 100%;
+    }
+    .tour-detail-head {
+        display: flex;
+        padding: 39px;
+        gap: 10px;
+        /* flex-direction: column; */
+    }
+    .tourform-group-1 {
+        width: 100% !important;
+        flex-direction: column;
+        height: 100% !important;
+    }
+}
+
+@media only screen and (max-width: 1100px) {
+    body{
+        overflow-x: hidden;
+    }
+    .container {
+        margin: 0 25px auto !important;
+    }
+
+    .container-1 {
+        margin: 0 25px !important;
+    }
+
+    .container-2 {
+        margin: 0 25px !important;
+    }
+
+    .container-3 {
+        margin: 0 25px !important;
+    }
+
+    .container-4 {
+        margin: 0 25px !important;
+    }
+    .nav-head {
+        display: flex;
+        align-items: center;
+        gap: 157px !important;
+    }
+    .nav-1-head {
+        display: flex;
+        align-items: center;
+        gap: 107px !important;
+    }
+    .home-ads-head {
+        width: 100%;
+        height: 100% !important;
+        /* flex-direction: column; */
+        gap: 80px !important;
+        box-sizing: border-box;
+        padding: 40px 20px;
+        flex-wrap: wrap;
+    }
+    .category-1 h2 {
+        font-size: 48px !important;
+        line-height: 55px !important;
+    }
+
+    .category-2 {
+        gap: 60px !important;
+        display: grid !important;
+        grid-template-columns: repeat(2, 1fr) !important;
+    }
+    .category-box {
+        width: 100% !important;
+        height: 100%;
+        text-align: center;
+        transition: all 0.5s ease-in-out;
+    }
+    .Romantic-1 img{
+        width: 100% ;
+    }
+    .Fast-2 img{
+        width: 100%;
+    }
+    .Fast-sub-head {
+        display: flex;
+        align-items: center;
+        gap: 68px !important;
+    }
+    .Promotion-1 img{
+        width: 60%;
+    }
+    .Promotion-image {
+        display: flex;
+        align-items: center;
+        gap: 26px !important;
+        margin: 80px 0 0 0;
+    }
+    .Trending-1 {
+        align-items: center;
+        display: grid;
+        grid-template-columns: repeat(2, 1fr) !important;
+        flex-wrap: wrap;
+        gap: 20px;
+        justify-content: center;
+        padding-bottom: 50px;
+        margin-bottom: 70px;
+    }
+    .Tour-Plans-head {
+        display: flex;
+        align-items: center;
+        gap: 58px !important;
+        margin: 107px 0;
+    }
+    .Tour-Plans-headimg img{
+        width: 400px;
+    }
+    .Tour-Plans-img {
+        display: none;
+    }
+    .Tour-Plans-img1 {
+        display: flex;
+        align-items: center;
+        gap: 43px !important;
+    }
+    .Trending-box-1 {
+        width: 90% !important;
+        height: 696px;
+    }
+    .Trending-box-1 img{
+        width: 100%;
+    }
+    .Trending-sub-head {
+        display: flex;
+        width: 100%;
+        gap: 52px;
+        flex-direction: column;
+    }
+    .PlanYourTrip {
+        width: 100% !important;
+        height: 100% !important;
+    }
+    .planinput h6 {
+        width: 100% !important;
+    }
+    .bookthistour-1 {
+        width: 100% !important;
+        height: 100%;
+    }
+    .bookthistour-1 input {
+        text-align: center !important;
+        width: 100%;
+    }
+    .tour-detail-head {
+        display: flex;
+        padding: 39px;
+        gap: 10px;
+        flex-direction: column;
+    }
+    .tourform-group-1 {
+        width: 100% !important;
+        flex-direction: column;
+        height: 100% !important;
+    }
+}
+
+@media only screen and (max-width: 1024px) {
+    body {
+        overflow-x: hidden;
+    }
+
+    .container {
+        margin: 0 25px auto !important;
+    }
+
+    .container-1 {
+        margin: 0 25px !important;
+    }
+
+    .container-2 {
+        margin: 0 25px !important;
+    }
+
+    .container-3 {
+        margin: 0 25px !important;
+    }
+
+    .container-4 {
+        margin: 0 25px !important;
+    }
+
+    .menubar {
+        display: unset !important;
+        border: 1px solid #7b7b80;
+        border-radius: 10px;
+        padding: 5px 5px 0px 5px;
+        color: #ffffff;
+        background-color: #7b7b80;
+        margin-bottom: 20px;
+    }
+
+    .menubar:hover {
+        background-color: rgb(253, 132, 19);
+        color: #ffffff;
+    }
+
+    .hide-drawer {
+        display: unset !important;
+    }
+
+    .drawer {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 250px;
+        height: 100%;
+        background-color: #585858;
+        color: rgb(255, 255, 255);
+        padding: 20px;
+        box-shadow: 2px 0 5px rgba(0, 0, 0, 0.5);
+        transform: translateX(-100%);
+        transition: transform 0.3s ease-in-out;
+        z-index: 1000;
+    }
+
+    .drawer.open {
+        transform: translateX(0);
+    }
+
+    .drawer-content {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .drawer-content h3 {
+        margin-bottom: 20px;
+    }
+
+    .drawer-content ul {
+        list-style: none;
+        padding: 0;
+    }
+
+    .drawer-content ul li {
+        margin-bottom: 15px;
+        cursor: pointer;
+    }
+
+    .drawer-content ul li:hover {
+        color: #bbb;
+    }
+
+    .nav-head {
+        display: flex;
+        align-items: center;
+        gap: 0 !important;
+        justify-content: space-between;
+    }
+
+    .nav-1-head {
+        display: none !important;
+    }
+
+    .home-head {
+        padding: 120px 0 135px 0 !important;
+        /* text-align: center; */
+    }
+
+    .home-head h2 {
+        font-size: 52px !important;
+        line-height: 52px !important;
+
+    }
+
+    .where-blur {
+        flex-wrap: wrap;
+    }
+
+    .where-blur-1 {
+
+        width: 100% !important;
+        height: 100% !important;
+        padding: 23px 27px 23px 33px;
+    }
+
+    .hero-user-img p {
+        text-align: center !important;
+    }
+
+    .home-ads-head {
+        width: 100%;
+        height: 100% !important;
+        /* flex-direction: column; */
+        gap: 80px !important;
+        box-sizing: border-box;
+        padding: 40px 20px;
+        flex-wrap: wrap;
+    }
+
+    .category-1 h2 {
+        font-size: 48px !important;
+        line-height: 55px !important;
+    }
+
+    .category-2 {
+        gap: 60px !important;
+        display: grid !important;
+        grid-template-columns: repeat(2, 1fr) !important;
+    }
+    .category-box {
+        width: 100% !important;
+        height: 100%;
+        text-align: center;
+        transition: all 0.5s ease-in-out;
+    }
+    .icon {
+        position: absolute;
+        top: 36px;
+        right: 156px !important;
+    }
+    .icon-1 {
+        position: absolute;
+        top: 22px;
+        right: 158px !important;
+    }
+    .icon-2 {
+        position: absolute;
+        top: 26px;
+        right: 159px !important;
+    }
+    .icon-3 {
+        position: absolute;
+        top: 29px;
+        right: 158px !important;
+    }
+
+    .Romantic-sub-head {
+        display: flex;
+        align-items: center;
+        gap: 66px !important;
+        /* flex-direction: column; */
+    }
+
+    .Romantic-1 img {
+        width: 100%;
+        height: 100%;
+    }
+
+    .Romantic-2 h2 {
+        font-size: 48px !important;
+        line-height: 55px !important;
+        /* text-align: center !important; */
+    }
+
+    .Fast-sub-head {
+        display: flex;
+        align-items: center;
+        gap: 68px !important;
+        /* flex-direction: column-reverse; */
+    }
+
+    .Fast-2 img {
+        width: 100%;
+        height: 100%;
+    }
+
+
+    .Fast-1 h2 {
+        font-size: 46px !important;
+        /* text-align: center !important; */
+        line-height: 55px !important;
+    }
+
+    /* .Fast-1-sub {
+      
+    }
+
+    .Fast-sub h6 {
+        text-align: center !important;
+    }
+
+    .Fast-sub p {
+        text-align: center !important;
+    } */
+
+    .holiday-1 h1 {
+        font-size: 52px !important;
+        line-height: 55px !important;
+        text-align: center !important;
+        width: 100% !important;
+    }
+
+    .Promotion-image {
+        flex-direction: column;
+        gap: 40px !important;
+    }
+
+    .Promotion-1 {
+        display: none;
+    }
+
+    .Promotion-2 {
+        width: 100% !important;
+        text-align: center;
+    }
+
+    .Promotion-2 h5 {
+        text-align: center !important;
+    }
+
+    .Promotion-2 h2 {
+        font-size: 48px !important;
+        line-height: 55px !important;
+        text-align: center !important;
+    }
+
+    .Promotion-2 p {
+        text-align: center !important;
+    }
+
+    .explore-head {
+        flex-direction: column;
+    }
+
+    .explore-text h2 {
+        font-size: 48px !important;
+    }
+
+    .Trending-head h2 {
+        font-size: 48px !important;
+        line-height: 55px !important;
+    }
+
+    .Trending-1 {
+        grid-template-columns: repeat(1, 1fr) !important;
+        padding-left: 20px;
+    }
+
+    .Trending-box {
+        width: 90% !important;
+        height: 95% !important;
+    }
+
+    .Trending-1 img {
+        width: 100% !important;
+        height: 300px;
+        border-radius: 30px;
+
+    }
+
+    .ourclient-smallimg {
+        display: none;
+    }
+
+    .ourclient-head h2 {
+        font-size: 46px !important;
+        line-height: 55px !important;
+    }
+
+    .ourclient {
+        padding: 75px 0 66px 0 !important;
+    }
+
+    .OurClients-box-img {
+        position: absolute;
+        top: -73px;
+        /* left: 383px !important; */
+    }
+
+    /* about */
+    .about h1 {
+        font-size: 94px !important;
+        line-height: 98px !important;
+        text-align: center !important;
+    }
+
+    .Europe-img {
+        width: 100% !important;
+        height: 100% !important;
+    }
+
+    .Europe-img1 {
+        height: 100% !important;
+        /* top: -23px !important; */
+        /* left: -23px !important; */
+
+    }
+
+    .wander-icon {
+        position: absolute;
+        top: 244px;
+        left: 456px !important;
+    }
+
+    .Europe-img2 {
+        width: 100% !important;
+        height: 100% !important;
+        top: -9px !important;
+        right: -185px;
+        left: -8px !important;
+        z-index: -1;
+    }
+
+    .Europe-head {
+        width: 100% !important;
+        /* text-align: center; */
+    }
+
+    .Europe-head h2 {
+        /* text-align: center !important; */
+        font-size: 42px !important;
+        line-height: 55px !important;
+    }
+
+    .Wanderlust-background h1 {
+        font-size: 74px !important;
+        line-height: 70px !important;
+    }
+
+
+    .Tour-Plans-headimg img {
+        width: 300px !important;
+    }
+    .Tour-Plans-head {
+        display: flex;
+        align-items: center;
+        gap: 40px !important;
+        margin: 107px 0;
+    }
+    .Tour-Plans-img {
+        display: none;
+    }
+
+
+    .Tour-Plans-2 h2 {
+        /* text-align: center !important; */
+        font-size: 42px !important;
+        line-height: 55px !important;
+    }
+
+    .Tour-Plans-2 p {
+        /* text-align: center !important; */
+        width: 100% !important;
+    }
+
+    .gallery-head h2 {
+        font-size: 42px !important;
+        line-height: 55px !important;
+    }
+
+    .gallery {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr) !important;
+        gap: 20px;
+        padding: 20px;
+        max-width: 1200px;
+        margin: auto;
+    }
+
+    /* about */
+
+    /* package */
+    .price-tour {
+        flex-direction: column;
+        height: 100% !important;
+        gap: 40px;
+        box-sizing: border-box;
+        padding: 20px !important;
+    }
+
+    .price-tour h4:hover {
+        padding: 10px;
+        background-color: #df6951;
+        color: #ffffff;
+        border-radius: 10px;
+    }
+
+    .Trending-sub-head {
+        flex-direction: column;
+        width: 100%;
+        gap: 52px;
+    }
+
+    .Trending-1-1 {
+        grid-template-columns: repeat(2, 1fr) !important;
+    }
+
+    .Trending-box-1 {
+        width: 92% !important;
+        height: 95% !important;
+    }
+
+    .Trending-box-1 img {
+        width: 100% !important;
+        height: 300px;
+        border-radius: 30px;
+    }
+
+    .pagination {
+        width: 95% !important;
+    }
+
+    .PlanYourTrip {
+        width: 100% !important;
+        height: 100% !important;
+    }
+
+    .planinput h6 {
+        width: 100% !important;
+    }
+
+    .PlanYourTrip h4 {
+        font-size: 42px !important;
+    }
+
+    .plan-img img {
+        width: 100%;
+        margin-top: 20px;
+    }
+
+    /* package */
+
+    /* tourdetails */
+    .tourdetails-2 {
+        height: 100% !important;
+        box-sizing: border-box;
+        gap: 40px;
+    }
+
+    .tour-detail-head {
+        flex-direction: column;
+        padding: 30px 30px !important;
+    }
+
+    .tour-detail {
+        width: 100% !important;
+    }
+
+    .tourdetail-4 {
+        text-align: center;
+    }
+
+    .gallery-images {
+        /* padding: 0 18px; */
+        display: grid;
+        grid-template-columns: repeat(3, 1fr) !important;
+        margin: 0 35px auto;
+    }
+
+    .bookthistour-1 {
+        width: 100% !important;
+        height: 100%;
+    }
+
+    .tourform-group-1 {
+        width: 100% !important;
+        flex-direction: column;
+        height: 100% !important;
+    }
+
+    .bookthistour-1 input {
+        text-align: center !important;
+        width: 100%;
+    }
+
+    .tourplan-1sub {
+        gap: 15px !important;
+    }
+
+    .tourplan-content {
+        width: 100% !important;
+    }
+
+
+    .tourdetailhead-4 {
+        padding: 20px !important;
+        flex-direction: column;
+    }
+/* 
+    .gallery-images-1 {
+        grid-template-columns: 2fr !important;
+        grid-template-rows: auto !important;
+        gap: 15px;
+        width: 100% !important;
+    }
+
+    .gallery-images-1 img {
+        width: 100% !important;
+        height: auto !important;
+    }
+
+    .gallery-images-1 img:nth-child(4),
+    .gallery-images-1 img:nth-child(5),
+    .gallery-images-1 img:nth-child(6),
+    .gallery-images-1 img:nth-child(7) {
+        grid-row: auto !important;
+        grid-column: auto !important;
+    } */
+
+
+    /* tourdetails */
+
+    .footer {
+        width: 100%;
+        text-align: center;
+    }
+
+    .footer-1 {
+        flex-direction: column;
+        text-align: center;
+        justify-content: center !important;
+    }
+
+    .footer-2 {
+        width: 100% !important;
+        margin-bottom: 15px;
+    }
+
+    .footer-2 p {
+        text-align: center !important;
+    }
+
+    .footer-logs {
+        justify-content: center;
+    }
+
+    .footer-3 {
+        margin-bottom: 20px;
+    }
+
+    .footer-3 h5 {
+        text-align: center !important;
+    }
+
+    .footer-3 p {
+        text-align: center !important;
+    }
+
+    .footer-4 h5 {
+        text-align: center !important;
+    }
+
+    .footer-4-1 {
+        width: 100% !important;
+        gap: 0px !important;
+        flex-direction: column;
+    }
+
+    .footer-4 p {
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 28px;
+        letter-spacing: -0.02em;
+        text-align: center !important;
+        margin: 70px 0 0 0 !important;
+        color: #757095;
+        width: 100% !important;
+    }
+}
+
+
+@media only screen and (max-width: 992px) {
+    body {
+        overflow-x: hidden;
+    }
+
+    .container {
+        margin: 0 25px auto !important;
+    }
+
+    .container-1 {
+        margin: 0 25px !important;
+    }
+
+    .container-2 {
+        margin: 0 25px !important;
+    }
+
+    .container-3 {
+        margin: 0 25px !important;
+    }
+
+    .container-4 {
+        margin: 0 25px !important;
+    }
+
+    .menubar {
+        display: unset !important;
+        border: 1px solid #7b7b80;
+        border-radius: 10px;
+        padding: 5px 5px 0px 5px;
+        color: #ffffff;
+        background-color: #7b7b80;
+        margin-bottom: 20px;
+    }
+
+    .menubar:hover {
+        background-color: rgb(253, 132, 19);
+        color: #ffffff;
+    }
+
+    .hide-drawer {
+        display: unset !important;
+    }
+
+    .drawer {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 250px;
+        height: 100%;
+        background-color: #585858;
+        color: rgb(255, 255, 255);
+        padding: 20px;
+        box-shadow: 2px 0 5px rgba(0, 0, 0, 0.5);
+        transform: translateX(-100%);
+        transition: transform 0.3s ease-in-out;
+        z-index: 1000;
+    }
+
+    .drawer.open {
+        transform: translateX(0);
+    }
+
+    .drawer-content {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .drawer-content h3 {
+        margin-bottom: 20px;
+    }
+
+    .drawer-content ul {
+        list-style: none;
+        padding: 0;
+    }
+
+    .drawer-content ul li {
+        margin-bottom: 15px;
+        cursor: pointer;
+    }
+
+    .drawer-content ul li:hover {
+        color: #bbb;
+    }
+
+    .nav-head {
+        display: flex;
+        align-items: center;
+        gap: 0 !important;
+        justify-content: space-between;
+    }
+
+    .nav-1-head {
+        display: none !important;
+    }
+
+    .home-head {
+        padding: 120px 0 135px 0 !important;
+        text-align: center;
+    }
+
+    .home-head h2 {
+        font-size: 52px !important;
+        line-height: 52px !important;
+        text-align: center !important;
+    }
+
+    .where-blur {
+        flex-wrap: wrap;
+    }
+
+    .where-blur-1 {
+
+        width: 100% !important;
+        height: 100% !important;
+        padding: 23px 27px 23px 33px;
+    }
+
+    .hero-user-img {
+        flex-direction: column;
+    }
+
+    .hero-user-img p {
+        text-align: center !important;
+    }
+
+    .home-ads-head {
+        width: 100%;
+        height: 100% !important;
+        /* flex-direction: column; */
+        gap: 80px !important;
+        box-sizing: border-box;
+        padding: 40px 20px;
+        flex-wrap: wrap;
+    }
+
+    .category-1 h2 {
+        font-size: 48px !important;
+        line-height: 55px !important;
+    }
+
+    .category-2 {
+        gap: 60px !important;
+        display: grid !important;
+        grid-template-columns: repeat(2, 1fr) !important;
+    }
+    .category-box {
+        width: 100% !important;
+        height: 100%;
+        text-align: center;
+        transition: all 0.5s ease-in-out;
+    }
+    .icon {
+        position: absolute;
+        top: 36px;
+        right: 156px !important;
+    }
+    .icon-1 {
+        position: absolute;
+        top: 22px;
+        right: 158px !important;
+    }
+    .icon-2 {
+        position: absolute;
+        top: 26px;
+        right: 159px !important;
+    }
+    .icon-3 {
+        position: absolute;
+        top: 29px;
+        right: 158px !important;
+    }
+
+    .Romantic-sub-head {
+        display: flex;
+        align-items: center;
+        gap: 66px !important;
+        flex-direction: column;
+    }
+
+    .Romantic-1 img {
+        width: 100%;
+        height: 100%;
+    }
+
+    .Romantic-2 {
+        text-align: center;
+    }
+
+    .Romantic-2 h6 {
+        text-align: center !important;
+    }
+
+    .Romantic-2 h2 {
+        font-size: 48px !important;
+        line-height: 55px !important;
+        text-align: center !important;
+    }
+
+    .Romantic-2 p {
+        text-align: center !important;
+    }
+
+    .Fast-sub-head {
+        display: flex;
+        align-items: center;
+        gap: 68px !important;
+        flex-direction: column-reverse;
+    }
+
+    .Fast-2 img {
+        width: 100%;
+        height: 100%;
+    }
+
+    .Fast-1 h5 {
+        text-align: center !important;
+    }
+
+    .Fast-1 h2 {
+        font-size: 46px !important;
+        text-align: center !important;
+        line-height: 55px !important;
+    }
+
+    /* .Fast-1-sub {
+      
+    }
+
+    .Fast-sub h6 {
+        text-align: center !important;
+    }
+
+    .Fast-sub p {
+        text-align: center !important;
+    } */
+
+    .holiday-1 h1 {
+        font-size: 52px !important;
+        line-height: 55px !important;
+        text-align: center !important;
+        width: 100% !important;
+    }
+
+    .Promotion-image {
+        flex-direction: column;
+        gap: 40px !important;
+    }
+
+    .Promotion-1 {
+        display: none;
+    }
+
+    .Promotion-2 {
+        width: 100% !important;
+        text-align: center;
+    }
+
+    .Promotion-2 h5 {
+        text-align: center !important;
+    }
+
+    .Promotion-2 h2 {
+        font-size: 48px !important;
+        line-height: 55px !important;
+        text-align: center !important;
+    }
+
+    .Promotion-2 p {
+        text-align: center !important;
+    }
+
+    .explore-head {
+        flex-direction: column;
+    }
+
+    .explore-text h2 {
+        font-size: 48px !important;
+    }
+
+    .Trending-head h2 {
+        font-size: 48px !important;
+        line-height: 55px !important;
+    }
+
+    .Trending-1 {
+        grid-template-columns: repeat(1, 1fr) !important;
+        padding-left: 20px;
+    }
+
+    .Trending-box {
+        width: 90% !important;
+        height: 95% !important;
+    }
+
+    .Trending-1 img {
+        width: 100% !important;
+        height: 300px;
+        border-radius: 30px;
+
+    }
+
+    .ourclient-smallimg {
+        display: none;
+    }
+
+    .ourclient-head h2 {
+        font-size: 46px !important;
+        line-height: 55px !important;
+    }
+
+    .OurClients-box {
+        width: 100% !important;
+        padding: 83px 33px 33px 33px !important;
+    }
+
+    .ourclient {
+        padding: 75px 0 66px 0 !important;
+    }
+
+    .OurClients-box-img {
+        position: absolute;
+        top: -73px;
+        left: 383px !important;
+    }
+
+    /* about */
+    .about h1 {
+        font-size: 94px !important;
+        line-height: 98px !important;
+        text-align: center !important;
+    }
+
+    .Europe {
+        flex-direction: column-reverse;
+    }
+
+    .Europe-img {
+        width: 100% !important;
+        height: 100% !important;
+    }
+
+    .Europe-img1 {
+        width: 106% !important;
+        height: 100% !important;
+        top: -23px !important;
+        left: -23px !important;
+
+    }
+
+    .wander-icon {
+        position: absolute;
+        top: 244px;
+        left: 420px !important;
+    }
+
+    .Europe-img2 {
+        width: 100% !important;
+        height: 100% !important;
+        top: -9px !important;
+        right: -185px;
+        left: -8px !important;
+        z-index: -1;
+    }
+
+    .Europe-head {
+        width: 100% !important;
+        text-align: center;
+    }
+
+    .Europe-head h5 {
+        text-align: center !important;
+    }
+
+    .Europe-head h2 {
+        text-align: center !important;
+        font-size: 42px !important;
+        line-height: 55px !important;
+    }
+
+    .Europe-head p {
+        text-align: center !important;
+    }
+
+    .Wanderlust-background h1 {
+        font-size: 74px !important;
+        line-height: 70px !important;
+    }
+
+    .Tour-Plans-head {
+        flex-direction: column;
+    }
+
+    .Tour-Plans-headimg img {
+        width: 100% !important;
+    }
+
+    .Tour-Plans-img {
+        display: none;
+    }
+
+    .Tour-Plans-img1 {
+        /* flex-direction: column; */
+        justify-content: center;
+    }
+
+    .Tour-Plans-2 {
+        text-align: center;
+    }
+
+    .Tour-Plans-2 h5 {
+        text-align: center !important;
+    }
+
+    .Tour-Plans-2 h2 {
+        text-align: center !important;
+        font-size: 42px !important;
+        line-height: 55px !important;
+    }
+
+    .Tour-Plans-2 p {
+        text-align: center !important;
+        width: 100% !important;
+    }
+
+    .gallery-head h2 {
+        font-size: 42px !important;
+        line-height: 55px !important;
+    }
+
+    .gallery {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr) !important;
+        gap: 20px;
+        padding: 20px;
+        max-width: 1200px;
+        margin: auto;
+    }
+
+    /* about */
+
+    /* package */
+    .price-tour {
+        flex-direction: column;
+        height: 100% !important;
+        gap: 40px;
+        box-sizing: border-box;
+        padding: 20px !important;
+    }
+
+    .price-tour h4:hover {
+        padding: 10px;
+        background-color: #df6951;
+        color: #ffffff;
+        border-radius: 10px;
+    }
+
+    .Trending-sub-head {
+        flex-direction: column;
+        width: 100%;
+        gap: 52px;
+    }
+
+    .Trending-1-1 {
+        grid-template-columns: repeat(2, 1fr) !important;
+    }
+
+    .Trending-box-1 {
+        width: 92% !important;
+        height: 95% !important;
+    }
+
+    .Trending-box-1 img {
+        width: 100% !important;
+        height: 300px;
+        border-radius: 30px;
+    }
+
+    .pagination {
+        width: 95% !important;
+    }
+
+    .PlanYourTrip {
+        width: 100% !important;
+        height: 100% !important;
+    }
+
+    .planinput h6 {
+        width: 100% !important;
+    }
+
+    .PlanYourTrip h4 {
+        font-size: 42px !important;
+    }
+
+    .plan-img img {
+        width: 100%;
+        margin-top: 20px;
+    }
+
+    /* package */
+
+    /* tourdetails */
+    .tourdetails-2 {
+        flex-direction: column;
+        height: 100% !important;
+        box-sizing: border-box;
+        padding: 40px 20px !important;
+        gap: 40px;
+    }
+
+    .tour-detail-head {
+        flex-direction: column;
+        padding: 30px 30px !important;
+    }
+
+    .tour-detail {
+        width: 100% !important;
+    }
+
+    .tourdetail-text-1 {
+        flex-direction: column;
+        gap: 25px !important;
+        margin: 0 0 20px 0 !important;
+    }
+
+    .tourdetail-text-1-sub {
+        justify-content: center;
+    }
+
+    .tour-detail p {
+        text-align: center !important;
+    }
+
+    .tourdetail-text-2 h5 {
+        font-size: 18px !important;
+    }
+
+    .tourdetail-text-2 p {
+        font-size: 16px !important;
+        width: 50% !important;
+        /* white-space: nowrap; */
+    }
+
+    .include-1-1 {
+        display: flex;
+        gap: 20px !important;
+        padding: 0 0 0 50px !important;
+    }
+
+    .include1-2 {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr) !important;
+        gap: 15px !important;
+        width: 53% !important;
+    }
+
+    .tourdetail-4 {
+        text-align: center;
+    }
+
+    .gallery-images {
+        /* padding: 0 18px; */
+        display: grid;
+        grid-template-columns: repeat(3, 1fr) !important;
+        margin: 0 35px auto;
+    }
+
+    .bookthistour-1 {
+        width: 100% !important;
+        height: 100%;
+    }
+
+    .tourform-group-1 {
+        width: 100% !important;
+        flex-direction: column;
+        height: 100% !important;
+    }
+
+    .bookthistour-1 input {
+        text-align: center !important;
+        width: 100%;
+    }
+
+    .tourplan-1sub {
+        gap: 15px !important;
+    }
+
+    .tour-detail-head-2 {
+        box-sizing: border-box;
+        padding: 20px !important;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .tourplan-content {
+        width: 100% !important;
+    }
+
+    .dotted-line {
+        display: none;
+    }
+
+    .tour-detail-head-3 {
+        padding: 20px !important;
+        flex-direction: column;
+    }
+
+    .tourdetailhead-4 {
+        padding: 20px !important;
+        flex-direction: column;
+    }
+
+    .gallery-images-1 {
+        grid-template-columns: 2fr !important;
+        grid-template-rows: auto !important;
+        gap: 15px;
+        width: 100% !important;
+    }
+
+    .gallery-images-1 img {
+        width: 100% !important;
+        height: auto !important;
+    }
+
+    .gallery-images-1 img:nth-child(4),
+    .gallery-images-1 img:nth-child(5),
+    .gallery-images-1 img:nth-child(6),
+    .gallery-images-1 img:nth-child(7) {
+        grid-row: auto !important;
+        grid-column: auto !important;
+    }
+
+
+    /* tourdetails */
+
+    .footer {
+        width: 100%;
+        text-align: center;
+    }
+
+    .footer-1 {
+        flex-direction: column;
+        text-align: center;
+        justify-content: center !important;
+    }
+
+    .footer-2 {
+        width: 100% !important;
+        margin-bottom: 15px;
+    }
+
+    .footer-2 p {
+        text-align: center !important;
+    }
+
+    .footer-logs {
+        justify-content: center;
+    }
+
+    .footer-3 {
+        margin-bottom: 20px;
+    }
+
+    .footer-3 h5 {
+        text-align: center !important;
+    }
+
+    .footer-3 p {
+        text-align: center !important;
+    }
+
+    .footer-4 h5 {
+        text-align: center !important;
+    }
+
+    .footer-4-1 {
+        width: 100% !important;
+        gap: 0px !important;
+        flex-direction: column;
+    }
+
+    .footer-4 p {
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 28px;
+        letter-spacing: -0.02em;
+        text-align: center !important;
+        margin: 70px 0 0 0 !important;
+        color: #757095;
+        width: 100% !important;
+    }
+}
+
+@media only screen and (max-width: 863px) {
+    body {
+        overflow-x: hidden;
+    }
+
+    .container {
+        margin: 0 25px auto !important;
+    }
+
+    .container-1 {
+        margin: 0 25px !important;
+    }
+
+    .container-2 {
+        margin: 0 25px !important;
+    }
+
+    .container-3 {
+        margin: 0 25px !important;
+    }
+
+    .container-4 {
+        margin: 0 25px !important;
+    }
+
+    .menubar {
+        display: unset !important;
+        border: 1px solid #7b7b80;
+        border-radius: 10px;
+        padding: 5px 5px 0px 5px;
+        color: #ffffff;
+        background-color: #7b7b80;
+        margin-bottom: 20px;
+    }
+
+    .menubar:hover {
+        background-color: rgb(253, 132, 19);
+        color: #ffffff;
+    }
+
+    .hide-drawer {
+        display: unset !important;
+    }
+
+    .drawer {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 250px;
+        height: 100%;
+        background-color: #585858;
+        color: rgb(255, 255, 255);
+        padding: 20px;
+        box-shadow: 2px 0 5px rgba(0, 0, 0, 0.5);
+        transform: translateX(-100%);
+        transition: transform 0.3s ease-in-out;
+        z-index: 1000;
+    }
+
+    .drawer.open {
+        transform: translateX(0);
+    }
+
+    .drawer-content {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .drawer-content h3 {
+        margin-bottom: 20px;
+    }
+
+    .drawer-content ul {
+        list-style: none;
+        padding: 0;
+    }
+
+    .drawer-content ul li {
+        margin-bottom: 15px;
+        cursor: pointer;
+    }
+
+    .drawer-content ul li:hover {
+        color: #bbb;
+    }
+
+    .nav-head {
+        display: flex;
+        align-items: center;
+        gap: 0 !important;
+        justify-content: space-between;
+    }
+
+    .nav-1-head {
+        display: none !important;
+    }
+
+    .home-head {
+        padding: 120px 0 135px 0 !important;
+        text-align: center;
+    }
+
+    .home-head h2 {
+        font-size: 42px !important;
+        line-height: 52px !important;
+        text-align: center !important;
+    }
+
+    .where-blur {
+        flex-wrap: wrap;
+    }
+
+    .where-blur-1 {
+
+        width: 100% !important;
+        height: 100% !important;
+        flex-direction: column;
+        padding: 23px 27px 23px 33px;
+    }
+
+    .hero-user-img {
+        flex-direction: column;
+    }
+
+    .hero-user-img p {
+        text-align: center !important;
+    }
+
+    .home-ads-head {
+        width: 100%;
+        height: 100% !important;
+        /* flex-direction: column; */
+        gap: 80px !important;
+        box-sizing: border-box;
+        padding: 40px 20px;
+        flex-wrap: wrap;
+    }
+
+    .category-1 h2 {
+        font-size: 42px !important;
+        line-height: 55px !important;
+    }
+
+    .category-2 {
+        gap: 60px !important;
+        display: grid !important;
+        grid-template-columns: repeat(2, 1fr) !important;
+    }
+    .category-box {
+        width: 100% !important;
+        height: 100%;
+        text-align: center;
+        transition: all 0.5s ease-in-out;
+    }
+    .icon {
+        position: absolute;
+        top: 36px;
+        right: 119px !important;
+    }
+    .icon-1 {
+        position: absolute;
+        top: 22px;
+        right: 138px !important;
+    }
+    .icon-2 {
+        position: absolute;
+        top: 26px;
+        right: 109px !important;
+    }
+    .icon-3 {
+        position: absolute;
+        top: 29px;
+        right: 108px !important;
+    }
+
+    .Romantic-sub-head {
+        display: flex;
+        align-items: center;
+        gap: 66px !important;
+        flex-direction: column;
+    }
+
+    .Romantic-1 img {
+        width: 100%;
+        height: 100%;
+    }
+
+    .Romantic-2 {
+        text-align: center;
+    }
+
+    .Romantic-2 h6 {
+        text-align: center !important;
+    }
+
+    .Romantic-2 h2 {
+        font-size: 42px !important;
+        line-height: 55px !important;
+        text-align: center !important;
+    }
+
+    .Romantic-2 p {
+        text-align: center !important;
+    }
+
+    .Fast-sub-head {
+        display: flex;
+        align-items: center;
+        gap: 68px !important;
+        flex-direction: column-reverse;
+    }
+
+    .Fast-2 img {
+        width: 100%;
+        height: 100%;
+    }
+
+    .Fast-1 h5 {
+        text-align: center !important;
+    }
+
+    .Fast-1 h2 {
+        font-size: 42px !important;
+        text-align: center !important;
+        line-height: 55px !important;
+    }
+
+    /* .Fast-1-sub {
+      
+    }
+
+    .Fast-sub h6 {
+        text-align: center !important;
+    }
+
+    .Fast-sub p {
+        text-align: center !important;
+    } */
+
+    .holiday-1 h1 {
+        font-size: 42px !important;
+        line-height: 55px !important;
+        text-align: center !important;
+        width: 100% !important;
+    }
+
+    .Promotion-image {
+        flex-direction: column;
+        gap: 40px !important;
+    }
+
+    .Promotion-1 {
+        display: none;
+    }
+
+    .Promotion-2 {
+        width: 100% !important;
+        text-align: center;
+    }
+
+    .Promotion-2 h5 {
+        text-align: center !important;
+    }
+
+    .Promotion-2 h2 {
+        font-size: 42px !important;
+        line-height: 55px !important;
+        text-align: center !important;
+    }
+
+    .Promotion-2 p {
+        text-align: center !important;
+    }
+
+    .explore-head {
+        flex-direction: column;
+    }
+
+    .explore-text h2 {
+        font-size: 48px !important;
+    }
+
+    .Trending-head h2 {
+        font-size: 42px !important;
+        line-height: 55px !important;
+    }
+
+    .Trending-1 {
+        grid-template-columns: repeat(1, 1fr) !important;
+        padding-left: 20px;
+    }
+
+    .Trending-box {
+        width: 90% !important;
+        height: 95% !important;
+    }
+
+    .Trending-1 img {
+        width: 100% !important;
+        height: 300px;
+        border-radius: 30px;
+
+    }
+
+    .ourclient-smallimg {
+        display: none;
+    }
+
+    .ourclient-head h2 {
+        font-size: 42px !important;
+        line-height: 55px !important;
+    }
+
+    .OurClients-box {
+        width: 100% !important;
+        padding: 83px 33px 33px 33px !important;
+    }
+
+    .ourclient {
+        padding: 75px 0 66px 0 !important;
+    }
+
+    .OurClients-box-img {
+        position: absolute;
+        top: -73px;
+        left: 333px !important;
+    }
+
+    /* about */
+    .about h1 {
+        font-size: 94px !important;
+        line-height: 98px !important;
+        text-align: center !important;
+    }
+
+    .Europe {
+        flex-direction: column-reverse;
+    }
+
+    .Europe-img {
+        width: 100% !important;
+        height: 100% !important;
+    }
+
+    .Europe-img1 {
+        width: 106% !important;
+        height: 100% !important;
+        top: -23px !important;
+        left: -23px !important;
+
+    }
+
+    .wander-icon {
+        position: absolute;
+        top: 244px;
+        left: 374px !important;
+    }
+
+    .Europe-img2 {
+        width: 100% !important;
+        height: 100% !important;
+        top: -9px !important;
+        right: -185px;
+        left: -8px !important;
+        z-index: -1;
+    }
+
+    .Europe-head {
+        width: 100% !important;
+        text-align: center;
+    }
+
+    .Europe-head h5 {
+        text-align: center !important;
+    }
+
+    .Europe-head h2 {
+        text-align: center !important;
+        font-size: 42px !important;
+        line-height: 55px !important;
+    }
+
+    .Europe-head p {
+        text-align: center !important;
+    }
+
+    .Wanderlust-background h1 {
+        font-size: 74px !important;
+        line-height: 70px !important;
+    }
+
+    .Tour-Plans-head {
+        flex-direction: column;
+    }
+
+    .Tour-Plans-headimg img {
+        width: 100% !important;
+    }
+
+    .Tour-Plans-img {
+        display: none;
+    }
+
+    .Tour-Plans-img1 {
+        flex-direction: column;
+    }
+
+    .Tour-Plans-2 {
+        text-align: center;
+    }
+
+    .Tour-Plans-2 h5 {
+        text-align: center !important;
+    }
+
+    .Tour-Plans-2 h2 {
+        text-align: center !important;
+        font-size: 42px !important;
+        line-height: 55px !important;
+    }
+
+    .Tour-Plans-2 p {
+        text-align: center !important;
+        width: 100% !important;
+    }
+
+    .gallery-head h2 {
+        font-size: 42px !important;
+        line-height: 55px !important;
+    }
+
+    .gallery {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr) !important;
+        gap: 20px;
+        padding: 20px;
+        max-width: 1200px;
+        margin: auto;
+    }
+
+    /* about */
+
+    /* package */
+    .price-tour {
+        flex-direction: column;
+        height: 100% !important;
+        gap: 40px;
+        box-sizing: border-box;
+        padding: 20px !important;
+    }
+
+    .price-tour h4:hover {
+        padding: 10px;
+        background-color: #df6951;
+        color: #ffffff;
+        border-radius: 10px;
+    }
+
+    .Trending-sub-head {
+        flex-direction: column;
+        width: 100%;
+        gap: 52px;
+    }
+
+    .Trending-1-1 {
+        grid-template-columns: repeat(2, 1fr) !important;
+    }
+
+    .Trending-box-1 {
+        width: 92% !important;
+        height: 95% !important;
+    }
+
+    .Trending-box-1 img {
+        width: 100% !important;
+        height: 300px;
+        border-radius: 30px;
+    }
+
+    .pagination {
+        width: 95% !important;
+    }
+
+    .PlanYourTrip {
+        width: 100% !important;
+        height: 100% !important;
+    }
+
+    .planinput h6 {
+        width: 100% !important;
+    }
+
+    .PlanYourTrip h4 {
+        font-size: 42px !important;
+    }
+
+    .plan-img img {
+        width: 100%;
+        margin-top: 20px;
+    }
+
+    /* package */
+
+    /* tourdetails */
+    .tourdetails-2 {
+        flex-direction: column;
+        height: 100% !important;
+        box-sizing: border-box;
+        padding: 40px 20px !important;
+        gap: 40px;
+    }
+
+    .tour-detail-head {
+        flex-direction: column;
+        padding: 30px 30px !important;
+    }
+
+    .tour-detail {
+        width: 100% !important;
+    }
+
+    .tourdetail-text-1 {
+        flex-direction: column;
+        gap: 25px !important;
+        margin: 0 0 20px 0 !important;
+    }
+
+    .tourdetail-text-1-sub {
+        justify-content: center;
+    }
+
+    .tour-detail p {
+        text-align: center !important;
+    }
+
+    .tourdetail-text-2 h5 {
+        font-size: 18px !important;
+    }
+
+    .tourdetail-text-2 p {
+        font-size: 16px !important;
+        width: 50% !important;
+        /* white-space: nowrap; */
+    }
+
+    .include-1-1 {
+        display: flex;
+        gap: 20px !important;
+        padding: 0 0 0 50px !important;
+    }
+
+    .include1-2 {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr) !important;
+        gap: 15px !important;
+        width: 53% !important;
+    }
+
+    .tourdetail-4 {
+        text-align: center;
+    }
+
+    .gallery-images {
+        /* padding: 0 18px; */
+        display: grid;
+        grid-template-columns: repeat(2, 1fr) !important;
+        margin: 0 80px auto;
+    }
+
+    .bookthistour-1 {
+        width: 100% !important;
+        height: 100%;
+    }
+
+    .tourform-group-1 {
+        width: 100% !important;
+        flex-direction: column;
+        height: 100% !important;
+    }
+
+    .bookthistour-1 input {
+        text-align: center !important;
+        width: 100%;
+    }
+
+    .tourplan-1sub {
+        gap: 15px !important;
+    }
+
+    .tour-detail-head-2 {
+        box-sizing: border-box;
+        padding: 20px !important;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .tourplan-content {
+        width: 100% !important;
+    }
+
+    .dotted-line {
+        display: none;
+    }
+
+    .tour-detail-head-3 {
+        padding: 20px !important;
+        flex-direction: column;
+    }
+
+    .tourdetailhead-4 {
+        padding: 20px !important;
+        flex-direction: column;
+    }
+
+    .gallery-images-1 {
+        grid-template-columns: 2fr !important;
+        grid-template-rows: auto !important;
+        gap: 15px;
+        width: 100% !important;
+    }
+
+    .gallery-images-1 img {
+        width: 100% !important;
+        height: auto !important;
+    }
+
+    .gallery-images-1 img:nth-child(4),
+    .gallery-images-1 img:nth-child(5),
+    .gallery-images-1 img:nth-child(6),
+    .gallery-images-1 img:nth-child(7) {
+        grid-row: auto !important;
+        grid-column: auto !important;
+    }
+
+
+    /* tourdetails */
+
+    .footer {
+        width: 100%;
+        text-align: center;
+    }
+
+    .footer-1 {
+        flex-direction: column;
+        text-align: center;
+        justify-content: center !important;
+    }
+
+    .footer-2 {
+        width: 100% !important;
+        margin-bottom: 15px;
+    }
+
+    .footer-2 p {
+        text-align: center !important;
+    }
+
+    .footer-logs {
+        justify-content: center;
+    }
+
+    .footer-3 {
+        margin-bottom: 20px;
+    }
+
+    .footer-3 h5 {
+        text-align: center !important;
+    }
+
+    .footer-3 p {
+        text-align: center !important;
+    }
+
+    .footer-4 h5 {
+        text-align: center !important;
+    }
+
+    .footer-4-1 {
+        width: 100% !important;
+        gap: 0px !important;
+        flex-direction: column;
+    }
+
+    .footer-4 p {
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 28px;
+        letter-spacing: -0.02em;
+        text-align: center !important;
+        margin: 70px 0 0 0 !important;
+        color: #757095;
+        width: 100% !important;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    body {
+        overflow-x: hidden;
+    }
+
+    .container {
+        margin: 0 25px auto !important;
+    }
+
+    .container-1 {
+        margin: 0 25px !important;
+    }
+
+    .container-2 {
+        margin: 0 25px !important;
+    }
+
+    .container-3 {
+        margin: 0 25px !important;
+    }
+
+    .container-4 {
+        margin: 0 25px !important;
+    }
+
+    .menubar {
+        display: unset !important;
+        border: 1px solid #7b7b80;
+        border-radius: 10px;
+        padding: 5px 5px 0px 5px;
+        color: #ffffff;
+        background-color: #7b7b80;
+        margin-bottom: 20px;
+    }
+
+    .menubar:hover {
+        background-color: rgb(253, 132, 19);
+        color: #ffffff;
+    }
+
+    .hide-drawer {
+        display: unset !important;
+    }
+
+    .drawer {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 250px;
+        height: 100%;
+        background-color: #585858;
+        color: rgb(255, 255, 255);
+        padding: 20px;
+        box-shadow: 2px 0 5px rgba(0, 0, 0, 0.5);
+        transform: translateX(-100%);
+        transition: transform 0.3s ease-in-out;
+        z-index: 1000;
+    }
+
+    .drawer.open {
+        transform: translateX(0);
+    }
+
+    .drawer-content {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .drawer-content h3 {
+        margin-bottom: 20px;
+    }
+
+    .drawer-content ul {
+        list-style: none;
+        padding: 0;
+    }
+
+    .drawer-content ul li {
+        margin-bottom: 15px;
+        cursor: pointer;
+    }
+
+    .drawer-content ul li:hover {
+        color: #bbb;
+    }
+
+    .nav-head {
+        display: flex;
+        align-items: center;
+        gap: 0 !important;
+        justify-content: space-between;
+    }
+
+    .nav-1-head {
+        display: none !important;
+    }
+
+    .home-head {
+        padding: 120px 0 135px 0 !important;
+        text-align: center;
+    }
+
+    .home-head h2 {
+        font-size: 42px !important;
+        line-height: 52px !important;
+        text-align: center !important;
+    }
+
+    .where-blur {
+        flex-wrap: wrap;
+    }
+
+    .where-blur-1 {
+
+        width: 100% !important;
+        height: 100% !important;
+        flex-direction: column;
+        padding: 23px 27px 23px 33px;
+    }
+
+    .hero-user-img {
+        flex-direction: column;
+    }
+
+    .hero-user-img p {
+        text-align: center !important;
+    }
+
+    .home-ads-head {
+        width: 100%;
+        height: 100% !important;
+        /* flex-direction: column; */
+        gap: 80px !important;
+        box-sizing: border-box;
+        padding: 40px 20px;
+        flex-wrap: wrap;
+    }
+
+    .category-1 h2 {
+        font-size: 42px !important;
+        line-height: 55px !important;
+    }
+
+    .category-2 {
+        gap: 135px;
+        flex-direction: column;
+    }
+
+    .Romantic-sub-head {
+        display: flex;
+        align-items: center;
+        gap: 66px !important;
+        flex-direction: column;
+    }
+
+    .Romantic-1 img {
+        width: 100%;
+        height: 100%;
+    }
+
+    .Romantic-2 {
+        text-align: center;
+    }
+
+    .Romantic-2 h6 {
+        text-align: center !important;
+    }
+
+    .Romantic-2 h2 {
+        font-size: 42px !important;
+        line-height: 55px !important;
+        text-align: center !important;
+    }
+
+    .Romantic-2 p {
+        text-align: center !important;
+    }
+
+    .Fast-sub-head {
+        display: flex;
+        align-items: center;
+        gap: 68px !important;
+        flex-direction: column-reverse;
+    }
+
+    .Fast-2 img {
+        width: 100%;
+        height: 100%;
+    }
+
+    .Fast-1 h5 {
+        text-align: center !important;
+    }
+
+    .Fast-1 h2 {
+        font-size: 42px !important;
+        text-align: center !important;
+        line-height: 55px !important;
+    }
+
+    /* .Fast-1-sub {
+      
+    }
+
+    .Fast-sub h6 {
+        text-align: center !important;
+    }
+
+    .Fast-sub p {
+        text-align: center !important;
+    } */
+
+    .holiday-1 h1 {
+        font-size: 42px !important;
+        line-height: 55px !important;
+        text-align: center !important;
+        width: 100% !important;
+    }
+
+    .Promotion-image {
+        flex-direction: column;
+        gap: 40px !important;
+    }
+
+    .Promotion-1 {
+        display: none;
+    }
+
+    .Promotion-2 {
+        width: 100% !important;
+        text-align: center;
+    }
+
+    .Promotion-2 h5 {
+        text-align: center !important;
+    }
+
+    .Promotion-2 h2 {
+        font-size: 42px !important;
+        line-height: 55px !important;
+        text-align: center !important;
+    }
+
+    .Promotion-2 p {
+        text-align: center !important;
+    }
+
+    .explore-head {
+        flex-direction: column;
+    }
+
+    .explore-text h2 {
+        font-size: 48px !important;
+    }
+
+    .Trending-head h2 {
+        font-size: 42px !important;
+        line-height: 55px !important;
+    }
+
+    .Trending-1 {
+        grid-template-columns: repeat(1, 1fr) !important;
+        padding-left: 20px;
+    }
+
+    .Trending-box {
+        width: 90% !important;
+        height: 95% !important;
+    }
+
+    .Trending-1 img {
+        width: 100% !important;
+        height: 300px;
+        border-radius: 30px;
+
+    }
+
+    .ourclient-smallimg {
+        display: none;
+    }
+
+    .ourclient-head h2 {
+        font-size: 42px !important;
+        line-height: 55px !important;
+    }
+
+    .OurClients-box {
+        width: 100% !important;
+        padding: 83px 33px 33px 33px !important;
+    }
+
+    .ourclient {
+        padding: 75px 0 66px 0 !important;
+    }
+
+    .OurClients-box-img {
+        position: absolute;
+        top: -73px;
+        left: 258px !important;
+    }
+
+    /* about */
+    .about h1 {
+        font-size: 94px !important;
+        line-height: 98px !important;
+        text-align: center !important;
+    }
+
+    .Europe {
+        flex-direction: column-reverse;
+    }
+
+    .Europe-img {
+        width: 100% !important;
+        height: 100% !important;
+    }
+
+    .Europe-img1 {
+        width: 107% !important;
+        height: 100% !important;
+        top: -19px !important;
+        left: -23px !important;
+
+    }
+
+    .wander-icon {
+        position: absolute;
+        top: 244px;
+        left: 327px !important;
+    }
+
+    .Europe-img2 {
+        width: 100% !important;
+        height: 100% !important;
+        top: -9px !important;
+        right: -185px;
+        left: -8px !important;
+        z-index: -1;
+    }
+
+    .Europe-head {
+        width: 100% !important;
+        text-align: center;
+    }
+
+    .Europe-head h5 {
+        text-align: center !important;
+    }
+
+    .Europe-head h2 {
+        text-align: center !important;
+        font-size: 42px !important;
+        line-height: 55px !important;
+    }
+
+    .Europe-head p {
+        text-align: center !important;
+    }
+
+    .Wanderlust-background h1 {
+        font-size: 74px !important;
+        line-height: 70px !important;
+    }
+
+    .Tour-Plans-head {
+        flex-direction: column;
+    }
+
+    .Tour-Plans-headimg img {
+        width: 100% !important;
+    }
+
+    .Tour-Plans-img {
+        display: none;
+    }
+
+    .Tour-Plans-img1 {
+        flex-direction: column;
+    }
+
+    .Tour-Plans-2 {
+        text-align: center;
+    }
+
+    .Tour-Plans-2 h5 {
+        text-align: center !important;
+    }
+
+    .Tour-Plans-2 h2 {
+        text-align: center !important;
+        font-size: 42px !important;
+        line-height: 55px !important;
+    }
+
+    .Tour-Plans-2 p {
+        text-align: center !important;
+        width: 100% !important;
+    }
+
+    .gallery-head h2 {
+        font-size: 42px !important;
+        line-height: 55px !important;
+    }
+
+    .gallery {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr) !important;
+        gap: 20px;
+        padding: 20px;
+        max-width: 1200px;
+        margin: auto;
+    }
+
+    /* about */
+
+    /* package */
+    .price-tour {
+        flex-direction: column;
+        height: 100% !important;
+        gap: 40px;
+        box-sizing: border-box;
+        padding: 20px !important;
+    }
+
+    .price-tour h4:hover {
+        padding: 10px;
+        background-color: #df6951;
+        color: #ffffff;
+        border-radius: 10px;
+    }
+
+    .Trending-sub-head {
+        flex-direction: column;
+        width: 100%;
+        gap: 52px;
+    }
+
+    .Trending-1-1 {
+        grid-template-columns: repeat(2, 1fr) !important;
+    }
+
+    .Trending-box-1 {
+        width: 92% !important;
+        height: 95% !important;
+    }
+
+    .Trending-box-1 img {
+        width: 100% !important;
+        height: 300px;
+        border-radius: 30px;
+    }
+
+    .pagination {
+        width: 95% !important;
+    }
+
+    .PlanYourTrip {
+        width: 100% !important;
+        height: 100% !important;
+    }
+
+    .planinput h6 {
+        width: 100% !important;
+    }
+
+    .PlanYourTrip h4 {
+        font-size: 42px !important;
+    }
+
+    .plan-img img {
+        width: 100%;
+        margin-top: 20px;
+    }
+
+    /* package */
+
+    /* tourdetails */
+    .tourdetails-2 {
+        flex-direction: column;
+        height: 100% !important;
+        box-sizing: border-box;
+        padding: 40px 20px !important;
+        gap: 40px;
+    }
+
+    .tour-detail-head {
+        flex-direction: column;
+        padding: 30px 10px !important;
+    }
+
+    .tour-detail {
+        width: 100% !important;
+    }
+
+    .tourdetail-text-1 {
+        flex-direction: column;
+        gap: 25px !important;
+        margin: 0 0 20px 0 !important;
+    }
+
+    .tourdetail-text-1-sub {
+        justify-content: center;
+    }
+
+    .tour-detail p {
+        text-align: center !important;
+    }
+
+    .tourdetail-text-2 h5 {
+        font-size: 18px !important;
+    }
+
+    .tourdetail-text-2 p {
+        font-size: 16px !important;
+        width: 50% !important;
+        /* white-space: nowrap; */
+    }
+
+    .include-1-1 {
+        display: flex;
+        gap: 20px !important;
+        padding: 0 0 0 50px !important;
+    }
+
+    .include1-2 {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr) !important;
+        gap: 15px !important;
+        width: 53% !important;
+    }
+
+    .tourdetail-4 {
+        text-align: center;
+    }
+
+    .gallery-images {
+        /* padding: 0 18px; */
+        display: grid;
+        grid-template-columns: repeat(2, 1fr) !important;
+        margin: 0 80px auto;
+    }
+
+    .bookthistour-1 {
+        width: 100% !important;
+        height: 100%;
+    }
+
+    .tourform-group-1 {
+        width: 100% !important;
+        flex-direction: column;
+        height: 100% !important;
+    }
+
+    .bookthistour-1 input {
+        text-align: center !important;
+        width: 100%;
+    }
+
+    .tourplan-1sub {
+        gap: 15px !important;
+    }
+
+    .tour-detail-head-2 {
+        box-sizing: border-box;
+        padding: 20px !important;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .tourplan-content {
+        width: 100% !important;
+    }
+
+    .dotted-line {
+        display: none;
+    }
+
+    .tour-detail-head-3 {
+        padding: 20px !important;
+        flex-direction: column;
+    }
+
+    .tourdetailhead-4 {
+        padding: 20px !important;
+        flex-direction: column;
+    }
+
+    .gallery-images-1 {
+        grid-template-columns: 2fr !important;
+        grid-template-rows: auto !important;
+        gap: 15px;
+        width: 100% !important;
+    }
+
+    .gallery-images-1 img {
+        width: 100% !important;
+        height: auto !important;
+    }
+
+    .gallery-images-1 img:nth-child(4),
+    .gallery-images-1 img:nth-child(5),
+    .gallery-images-1 img:nth-child(6),
+    .gallery-images-1 img:nth-child(7) {
+        grid-row: auto !important;
+        grid-column: auto !important;
+    }
+
+
+    /* tourdetails */
+
+    .footer {
+        width: 100%;
+        text-align: center;
+    }
+
+    .footer-1 {
+        flex-direction: column;
+        text-align: center;
+        justify-content: center !important;
+    }
+
+    .footer-2 {
+        width: 100% !important;
+        margin-bottom: 15px;
+    }
+
+    .footer-2 p {
+        text-align: center !important;
+    }
+
+    .footer-logs {
+        justify-content: center;
+    }
+
+    .footer-3 {
+        margin-bottom: 20px;
+    }
+
+    .footer-3 h5 {
+        text-align: center !important;
+    }
+
+    .footer-3 p {
+        text-align: center !important;
+    }
+
+    .footer-4 h5 {
+        text-align: center !important;
+    }
+
+    .footer-4-1 {
+        width: 100% !important;
+        gap: 0px !important;
+        flex-direction: column;
+    }
+
+    .footer-4 p {
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 28px;
+        letter-spacing: -0.02em;
+        text-align: center !important;
+        margin: 70px 0 0 0 !important;
+        color: #757095;
+        width: 100% !important;
+    }
+}
+
+@media only screen and (max-width: 700px) {}
+
+@media only screen and (max-width: 680px) {
+    .Europe-img1 {
+        width: 107% !important;
+        height: 100% !important;
+        top: -16px !important;
+        left: -20px !important;
+    }
+
+    .wander-icon {
+        position: absolute;
+        top: 244px;
+        left: 279px !important;
+    }
+}
+
+@media only screen and (max-width: 640px) {
+    .wander-icon {
+        position: absolute;
+        top: 244px;
+        left: 259px !important;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    body {
+        overflow-x: hidden;
+    }
+
+    .container {
+        margin: 0 25px auto !important;
+    }
+
+    .container-1 {
+        margin: 0 25px !important;
+    }
+
+    .container-2 {
+        margin: 0 25px !important;
+    }
+
+    .container-3 {
+        margin: 0 25px !important;
+    }
+
+    .container-4 {
+        margin: 0 25px !important;
+    }
+
+    .menubar {
+        display: unset !important;
+        border: 1px solid #7b7b80;
+        border-radius: 10px;
+        padding: 5px 5px 0px 5px;
+        color: #ffffff;
+        background-color: #7b7b80;
+        margin-bottom: 20px;
+    }
+
+    .menubar:hover {
+        background-color: rgb(253, 132, 19);
+        color: #ffffff;
+    }
+
+    .hide-drawer {
+        display: unset !important;
+    }
+
+    .drawer {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 250px;
+        height: 100%;
+        background-color: #585858;
+        color: rgb(255, 255, 255);
+        padding: 20px;
+        box-shadow: 2px 0 5px rgba(0, 0, 0, 0.5);
+        transform: translateX(-100%);
+        transition: transform 0.3s ease-in-out;
+        z-index: 1000;
+    }
+
+    .drawer.open {
+        transform: translateX(0);
+    }
+
+    .drawer-content {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .drawer-content h3 {
+        margin-bottom: 20px;
+    }
+
+    .drawer-content ul {
+        list-style: none;
+        padding: 0;
+    }
+
+    .drawer-content ul li {
+        margin-bottom: 15px;
+        cursor: pointer;
+    }
+
+    .drawer-content ul li:hover {
+        color: #bbb;
+    }
+
+    .nav-head {
+        display: flex;
+        align-items: center;
+        gap: 0 !important;
+        justify-content: space-between;
+    }
+
+    .nav-1-head {
+        display: none !important;
+    }
+
+    .home-head {
+        padding: 120px 0 135px 0 !important;
+        text-align: center;
+    }
+
+    .home-head h2 {
+        font-size: 32px !important;
+        line-height: 52px !important;
+        text-align: center !important;
+    }
+
+    .where-blur {
+        flex-direction: column;
+    }
+
+    .where-blur-1 {
+
+        width: 100% !important;
+        height: 100% !important;
+        flex-direction: column;
+        padding: 23px 27px 23px 33px;
+    }
+
+    .hero-user-img {
+        flex-direction: column;
+    }
+
+    .hero-user-img p {
+        text-align: center !important;
+    }
+
+    .home-ads-head {
+        width: 100%;
+        height: 100% !important;
+        flex-direction: column;
+        gap: 80px !important;
+        box-sizing: border-box;
+        padding: 40px 20px;
+
+    }
+
+    .category-1 h2 {
+        font-size: 32px !important;
+        line-height: 55px !important;
+    }
+
+    .category-2 {
+        gap: 135px;
+        flex-direction: column;
+    }
+
+    .Romantic-sub-head {
+        display: flex;
+        align-items: center;
+        gap: 66px !important;
+        flex-direction: column;
+    }
+
+    .Romantic-1 img {
+        width: 100%;
+        height: 100%;
+    }
+
+    .Romantic-2 {
+        text-align: center;
+    }
+
+    .Romantic-2 h6 {
+        text-align: center !important;
+    }
+
+    .Romantic-2 h2 {
+        font-size: 36px !important;
+        line-height: 55px !important;
+        text-align: center !important;
+    }
+
+    .Romantic-2 p {
+        text-align: center !important;
+    }
+
+    .Fast-sub-head {
+        display: flex;
+        align-items: center;
+        gap: 68px !important;
+        flex-direction: column-reverse;
+    }
+
+    .Fast-2 img {
+        width: 100%;
+        height: 100%;
+    }
+
+    .Fast-1 h5 {
+        text-align: center !important;
+    }
+
+    .Fast-1 h2 {
+        font-size: 32px !important;
+        text-align: center !important;
+        line-height: 55px !important;
+    }
+
+    .Fast-1-sub {
+        flex-direction: column;
+    }
+
+    .Fast-sub h6 {
+        text-align: center !important;
+    }
+
+    .Fast-sub p {
+        text-align: center !important;
+    }
+
+    .holiday-1 h1 {
+        font-size: 32px !important;
+        line-height: 55px !important;
+        text-align: center !important;
+        width: 100% !important;
+    }
+
+    .Promotion-image {
+        flex-direction: column;
+        gap: 40px !important;
+    }
+
+    .Promotion-1 {
+        display: none;
+    }
+
+    .Promotion-2 {
+        width: 100% !important;
+        text-align: center;
+    }
+
+    .Promotion-2 h5 {
+        text-align: center !important;
+    }
+
+    .Promotion-2 h2 {
+        font-size: 32px !important;
+        line-height: 55px !important;
+        text-align: center !important;
+    }
+
+    .Promotion-2 p {
+        text-align: center !important;
+    }
+
+    .explore-head {
+        flex-direction: column;
+    }
+
+    .explore-text h2 {
+        font-size: 38px !important;
+    }
+
+    .Trending-head h2 {
+        font-size: 32px !important;
+        line-height: 55px !important;
+    }
+
+    .Trending-1 {
+        grid-template-columns: repeat(1, 1fr) !important;
+        padding-left: 20px;
+    }
+
+    .Trending-box {
+        width: 90% !important;
+        height: 95% !important;
+    }
+
+    .Trending-1 img {
+        width: 100% !important;
+        height: 300px;
+        border-radius: 30px;
+
+    }
+
+    .ourclient-smallimg {
+        display: none;
+    }
+
+    .ourclient-head h2 {
+        font-size: 29px !important;
+        line-height: 55px !important;
+    }
+
+    .OurClients-box {
+        width: 100% !important;
+        padding: 83px 33px 33px 33px !important;
+    }
+
+    .ourclient {
+        padding: 75px 0 66px 0 !important;
+    }
+
+    .OurClients-box-img {
+        position: absolute;
+        top: -73px;
+        left: 200px !important;
+    }
+
+    /* about */
+    .about h1 {
+        font-size: 74px !important;
+        line-height: 98px !important;
+        text-align: center !important;
+    }
+
+    .Europe {
+        flex-direction: column-reverse;
+    }
+
+    .Europe-img {
+        width: 100% !important;
+        height: 100% !important;
+    }
+
+    .Europe-img1 {
+        width: 107% !important;
+        height: 100% !important;
+        top: -16px !important;
+        left: -20px !important;
+    }
+
+    .Europe-img2 {
+        width: 100% !important;
+        height: 100% !important;
+        top: -9px !important;
+        right: -185px;
+        left: -8px !important;
+        z-index: -1;
+    }
+
+    .Europe-head {
+        width: 100% !important;
+        text-align: center;
+    }
+
+    .Europe-head h5 {
+        text-align: center !important;
+    }
+
+    .Europe-head h2 {
+        text-align: center !important;
+        font-size: 32px !important;
+        line-height: 55px !important;
+    }
+
+    .Europe-head p {
+        text-align: center !important;
+    }
+
+    .Wanderlust-background h1 {
+        font-size: 64px !important;
+        line-height: 70px !important;
+    }
+
+    .Tour-Plans-head {
+        flex-direction: column;
+    }
+
+    .Tour-Plans-headimg img {
+        width: 100% !important;
+    }
+
+    .Tour-Plans-img {
+        display: none;
+    }
+
+    .Tour-Plans-img1 {
+        flex-direction: column;
+    }
+
+    .Tour-Plans-2 {
+        text-align: center;
+    }
+
+    .Tour-Plans-2 h5 {
+        text-align: center !important;
+    }
+
+    .Tour-Plans-2 h2 {
+        text-align: center !important;
+        font-size: 32px !important;
+        line-height: 55px !important;
+    }
+
+    .Tour-Plans-2 p {
+        text-align: center !important;
+        width: 100% !important;
+    }
+
+    .gallery-head h2 {
+        font-size: 32px !important;
+        line-height: 55px !important;
+    }
+
+    .gallery {
+        display: grid;
+        grid-template-columns: repeat(1, 1fr) !important;
+        gap: 20px;
+        padding: 20px;
+        max-width: 1200px;
+        margin: auto;
+    }
+
+    /* about */
+
+    /* package */
+    .price-tour {
+        flex-direction: column;
+        height: 100% !important;
+        gap: 40px;
+        box-sizing: border-box;
+        padding: 20px !important;
+    }
+
+    .price-tour h4:hover {
+        padding: 10px;
+        background-color: #df6951;
+        color: #ffffff;
+        border-radius: 10px;
+    }
+
+    .Trending-sub-head {
+        flex-direction: column;
+        width: 100%;
+        gap: 52px;
+    }
+
+    .Trending-1-1 {
+        grid-template-columns: repeat(1, 1fr) !important;
+    }
+
+    .Trending-box-1 {
+        width: 92% !important;
+        height: 95% !important;
+    }
+
+    .Trending-box-1 img {
+        width: 100% !important;
+        height: 300px;
+        border-radius: 30px;
+    }
+
+    .pagination {
+        width: 95% !important;
+    }
+
+    .PlanYourTrip {
+        width: 100% !important;
+        height: 100% !important;
+    }
+
+    .planinput h6 {
+        width: 100% !important;
+    }
+
+    .PlanYourTrip h4 {
+        font-size: 32px !important;
+    }
+
+    .plan-img img {
+        width: 100%;
+        margin-top: 20px;
+    }
+
+    /* package */
+
+    /* tourdetails */
+    .tourdetails-2 {
+        flex-direction: column;
+        height: 100% !important;
+        box-sizing: border-box;
+        padding: 40px 20px !important;
+        gap: 40px;
+    }
+
+    .tour-detail-head {
+        flex-direction: column;
+        padding: 30px 10px !important;
+    }
+
+    .tour-detail {
+        width: 100% !important;
+    }
+
+    .tourdetail-text-1 {
+        flex-direction: column;
+        gap: 25px !important;
+        margin: 0 0 20px 0 !important;
+    }
+
+    .tourdetail-text-1-sub {
+        justify-content: center;
+    }
+
+    .tour-detail p {
+        text-align: center !important;
+    }
+
+    .tourdetail-text-2 h5 {
+        font-size: 14px !important;
+    }
+
+    .tourdetail-text-2 p {
+        font-size: 11px !important;
+        width: 50% !important;
+        /* white-space: nowrap; */
+    }
+
+    .include-1-1 {
+        display: flex;
+        flex-direction: column;
+        gap: 20px !important;
+        padding: 0 0 0 50px !important;
+    }
+
+    .include1-2 {
+        display: grid;
+        grid-template-columns: repeat(1, 1fr) !important;
+        gap: 15px !important;
+        width: 40% !important;
+    }
+
+    .tourdetail-4 {
+        text-align: center;
+    }
+
+    .gallery-images {
+        /* padding: 0 18px; */
+        display: grid;
+        grid-template-columns: repeat(2, 1fr) !important;
+        margin: 0 auto;
+    }
+
+    .bookthistour-1 {
+        width: 100% !important;
+        height: 100%;
+    }
+
+    .tourform-group-1 {
+        width: 100% !important;
+        flex-direction: column;
+        height: 100% !important;
+    }
+
+    .bookthistour-1 input {
+        text-align: center !important;
+        width: 100%;
+    }
+
+    .tourplan-1sub {
+        gap: 15px !important;
+        flex-direction: column;
+    }
+
+    .tour-detail-head-2 {
+        box-sizing: border-box;
+        padding: 20px !important;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .tourplan-content {
+        width: 100% !important;
+    }
+
+    .dotted-line {
+        display: none;
+    }
+
+    .tour-detail-head-3 {
+        padding: 20px !important;
+        flex-direction: column;
+    }
+
+    .tourdetailhead-4 {
+        padding: 20px !important;
+        flex-direction: column;
+    }
+
+    .gallery-images-1 {
+        display: grid;
+        grid-template-columns: 1fr !important;
+        grid-template-rows: auto !important;
+        gap: 10px;
+        width: 100% !important;
+    }
+
+    .gallery-images-1 img {
+        width: 100% !important;
+        height: auto !important;
+    }
+
+    .gallery-images-1 img:nth-child(4),
+    .gallery-images-1 img:nth-child(5),
+    .gallery-images-1 img:nth-child(6),
+    .gallery-images-1 img:nth-child(7) {
+        grid-row: auto !important;
+        grid-column: auto !important;
+    }
+
+
+    /* tourdetails */
+
+    .footer {
+        width: 100%;
+        text-align: center;
+    }
+
+    .footer-1 {
+        flex-direction: column;
+        text-align: center;
+        justify-content: center !important;
+    }
+
+    .footer-2 {
+        width: 100% !important;
+        margin-bottom: 15px;
+    }
+
+    .footer-2 p {
+        text-align: center !important;
+    }
+
+    .footer-logs {
+        justify-content: center;
+    }
+
+    .footer-3 {
+        margin-bottom: 20px;
+    }
+
+    .footer-3 h5 {
+        text-align: center !important;
+    }
+
+    .footer-3 p {
+        text-align: center !important;
+    }
+
+    .footer-4 h5 {
+        text-align: center !important;
+    }
+
+    .footer-4-1 {
+        width: 100% !important;
+        gap: 0px !important;
+        flex-direction: column;
+    }
+
+    .footer-4 p {
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 28px;
+        letter-spacing: -0.02em;
+        text-align: center !important;
+        margin: 70px 0 0 0 !important;
+        color: #757095;
+        width: 100% !important;
+    }
+
+    .wander-icon {
+        position: absolute;
+        top: 244px;
+        left: 229px !important;
+    }
+
+}
+
+@media only screen and (max-width: 580px) {
+    .OurClients-box-img {
+        position: absolute;
+        top: -73px;
+        left: 180px !important;
+    }
+
+    .gallery-images {
+        /* padding: 0 18px; */
+        display: grid;
+        grid-template-columns: repeat(2, 1fr) !important;
+    }
+
+    .Europe-img1 {
+        width: 107% !important;
+        height: 100% !important;
+        top: -16px !important;
+        left: -20px !important;
+    }
+
+    .wander-icon {
+        position: absolute;
+        top: 244px;
+        left: 229px !important;
+    }
+}
+
+@media only screen and (max-width: 500px) {}
+
+@media only screen and (max-width: 540px) {
+    .OurClients-box-img {
+        position: absolute;
+        top: -73px;
+        left: 160px !important;
+    }
+
+    .gallery-images {
+        padding: 0 18px;
+        display: grid;
+        grid-template-columns: repeat(1, 1fr) !important;
+        margin: 0 60px auto;
+    }
+
+}
+
+@media only screen and (max-width: 500px) {}
+
+@media only screen and (max-width: 500px) {
+    .OurClients-box-img {
+        position: absolute;
+        top: -73px;
+        left: 138px !important;
+    }
+
+    .gallery-images {
+        padding: 0 18px;
+        display: grid;
+        grid-template-columns: repeat(1, 1fr) !important;
+        margin: 0 60px auto;
+    }
+
+    .Europe-img1 {
+        width: 110% !important;
+        height: 100% !important;
+        top: -20px !important;
+        left: -22px !important;
+    }
+
+    .wander-icon {
+        position: absolute;
+        top: 244px;
+        left: 189px !important;
+    }
+}
+
+@media only screen and (max-width: 480px) {
+    .OurClients-box-img {
+        position: absolute;
+        top: -73px;
+        left: 128px !important;
+    }
+
+    .gallery-images {
+        padding: 0 18px;
+        display: grid;
+        grid-template-columns: repeat(1, 1fr) !important;
+        margin: 0 50px auto;
+    }
+
+    .Europe-img1 {
+        width: 110% !important;
+        height: 100% !important;
+        top: -18px !important;
+        left: -21px !important;
+    }
+
+    .wander-icon {
+        position: absolute;
+        top: 244px;
+        left: 179px !important;
+    }
+}
+
+@media only screen and (max-width: 460px) {
+    .gallery-images {
+        padding: 0 18px;
+        display: grid;
+        grid-template-columns: repeat(1, 1fr) !important;
+        margin: 0 43px auto;
+    }
+}
+
+@media only screen and (max-width: 440px) {
+    .OurClients-box-img {
+        position: absolute;
+        top: -73px;
+        left: 110px !important;
+    }
+
+    .gallery-images {
+        padding: 0 18px;
+        display: grid;
+        grid-template-columns: repeat(1, 1fr) !important;
+        margin: 0 30px auto;
+    }
+
+    .wander-icon {
+        position: absolute;
+        top: 244px;
+        left: 159px !important;
+    }
+}
+
+@media only screen and (max-width: 420px) {
+    .OurClients-box-img {
+        position: absolute;
+        top: -73px;
+        left: 100px !important;
+    }
+
+    .gallery-images {
+        padding: 0 18px;
+        display: grid;
+        grid-template-columns: repeat(1, 1fr) !important;
+        margin: 0 20px auto;
+    }
+}
+
+@media only screen and (max-width: 400px) {
+    .where-blur-1 {
+        width: 333px !important;
+        height: 100% !important;
+        flex-direction: column;
+        padding: 23px 27px 23px 33px;
+    }
+
+    .OurClients-box-img {
+        position: absolute;
+        top: -73px;
+        left: 95px !important;
+    }
+
+    .wander-icon {
+        position: absolute;
+        top: 244px;
+        left: 129px !important;
+    }
+}
+
+@media only screen and (max-width: 380px) {
+    body {
+        overflow-x: hidden;
+    }
+
+    .container {
+        margin: 0 25px auto !important;
+    }
+
+    .container-1 {
+        margin: 0 25px !important;
+    }
+
+    .container-2 {
+        margin: 0 25px !important;
+    }
+
+    .container-3 {
+        margin: 0 25px !important;
+    }
+
+    .container-4 {
+        margin: 0 25px !important;
+    }
+
+    .menubar {
+        display: unset !important;
+        border: 1px solid #7b7b80;
+        border-radius: 10px;
+        padding: 5px 5px 0px 5px;
+        color: #ffffff;
+        background-color: #7b7b80;
+        margin-bottom: 20px;
+    }
+
+    .menubar:hover {
+        background-color: rgb(253, 132, 19);
+        color: #ffffff;
+    }
+
+    .hide-drawer {
+        display: unset !important;
+    }
+
+    .drawer {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 250px;
+        height: 100%;
+        background-color: #585858;
+        color: rgb(255, 255, 255);
+        padding: 20px;
+        box-shadow: 2px 0 5px rgba(0, 0, 0, 0.5);
+        transform: translateX(-100%);
+        transition: transform 0.3s ease-in-out;
+        z-index: 1000;
+    }
+
+    .drawer.open {
+        transform: translateX(0);
+    }
+
+    .drawer-content {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .drawer-content h3 {
+        margin-bottom: 20px;
+    }
+
+    .drawer-content ul {
+        list-style: none;
+        padding: 0;
+    }
+
+    .drawer-content ul li {
+        margin-bottom: 15px;
+        cursor: pointer;
+    }
+
+    .drawer-content ul li:hover {
+        color: #bbb;
+    }
+
+    .nav-head {
+        display: flex;
+        align-items: center;
+        gap: 0 !important;
+        justify-content: space-between;
+    }
+
+    .nav-1-head {
+        display: none !important;
+    }
+
+    .home-head {
+        padding: 120px 0 135px 0 !important;
+        text-align: center;
+    }
+
+    .home-head h2 {
+        font-size: 32px !important;
+        line-height: 52px !important;
+        text-align: center !important;
+    }
+
+    .where-blur {
+        flex-direction: column;
+    }
+
+    .where-blur-1 {
+
+        width: 300px !important;
+        height: 100% !important;
+        flex-direction: column;
+        padding: 23px 27px 23px 33px;
+    }
+
+    .hero-user-img {
+        flex-direction: column;
+    }
+
+    .hero-user-img p {
+        text-align: center !important;
+    }
+
+    .home-ads-head {
+        width: 100%;
+        height: 100% !important;
+        flex-direction: column;
+        gap: 80px !important;
+        box-sizing: border-box;
+        padding: 40px 20px;
+    }
+
+    .category-1 h2 {
+        font-size: 32px !important;
+        line-height: 55px !important;
+    }
+
+    .category-2 {
+        gap: 135px;
+        flex-direction: column;
+    }
+
+    .Romantic-sub-head {
+        display: flex;
+        align-items: center;
+        gap: 66px !important;
+        flex-direction: column;
+    }
+
+    .Romantic-1 img {
+        width: 100%;
+        height: 100%;
+    }
+
+    .Romantic-2 {
+        text-align: center;
+    }
+
+    .Romantic-2 h6 {
+        text-align: center !important;
+    }
+
+    .Romantic-2 h2 {
+        font-size: 36px !important;
+        line-height: 55px !important;
+        text-align: center !important;
+    }
+
+    .Romantic-2 p {
+        text-align: center !important;
+    }
+
+    .Fast-sub-head {
+        display: flex;
+        align-items: center;
+        gap: 68px !important;
+        flex-direction: column-reverse;
+    }
+
+    .Fast-2 img {
+        width: 100%;
+        height: 100%;
+    }
+
+    .Fast-1 h5 {
+        text-align: center !important;
+    }
+
+    .Fast-1 h2 {
+        font-size: 32px !important;
+        text-align: center !important;
+        line-height: 55px !important;
+    }
+
+    .Fast-1-sub {
+        flex-direction: column;
+    }
+
+    .Fast-sub h6 {
+        text-align: center !important;
+    }
+
+    .Fast-sub p {
+        text-align: center !important;
+    }
+
+    .holiday-1 h1 {
+        font-size: 32px !important;
+        line-height: 55px !important;
+        text-align: center !important;
+        width: 100% !important;
+    }
+
+    .Promotion-image {
+        flex-direction: column;
+        gap: 40px !important;
+    }
+
+    .Promotion-1 {
+        display: none;
+    }
+
+    .Promotion-2 {
+        width: 100% !important;
+        text-align: center;
+    }
+
+    .wander-icon {
+        position: absolute;
+        top: 244px;
+        left: 129px !important;
+    }
+
+    .Promotion-2 h5 {
+        text-align: center !important;
+    }
+
+    .Promotion-2 h2 {
+        font-size: 32px !important;
+        line-height: 55px !important;
+        text-align: center !important;
+    }
+
+    .Promotion-2 p {
+        text-align: center !important;
+    }
+
+    .explore-head {
+        flex-direction: column;
+    }
+
+    .explore-text h2 {
+        font-size: 38px !important;
+    }
+
+    .Trending-head h2 {
+        font-size: 32px !important;
+        line-height: 55px !important;
+    }
+
+    .Trending-1 {
+        grid-template-columns: repeat(1, 1fr) !important;
+    }
+
+    .Trending-box {
+        width: 90% !important;
+        height: 95% !important;
+    }
+
+    .Trending-1 img {
+        width: 100% !important;
+        height: 300px;
+        border-radius: 30px;
+
+    }
+
+    .ourclient-smallimg {
+        display: none;
+    }
+
+    .ourclient-head h2 {
+        font-size: 29px !important;
+        line-height: 55px !important;
+    }
+
+    .OurClients-box {
+        width: 100% !important;
+        padding: 63px 33px 33px 33px !important;
+    }
+
+    .ourclient {
+        padding: 75px 0 66px 0 !important;
+    }
+
+    .OurClients-box-img {
+        position: absolute;
+        top: -73px;
+        left: 77px !important;
+    }
+
+    /* about */
+    .about h1 {
+        font-size: 74px !important;
+        line-height: 98px !important;
+        text-align: center !important;
+    }
+
+    .Europe {
+        flex-direction: column-reverse;
+    }
+
+    .Europe-img {
+        width: 100% !important;
+        height: 100% !important;
+    }
+
+    .Europe-img1 {
+        width: 110% !important;
+        height: 100% !important;
+        top: -16px !important;
+        left: -16px !important;
+
+    }
+
+    .Europe-img2 {
+        width: 100% !important;
+        height: 100% !important;
+        top: -9px !important;
+        right: -185px;
+        left: -8px !important;
+        z-index: -1;
+    }
+
+    .Europe-head {
+        width: 100% !important;
+        text-align: center;
+    }
+
+    .Europe-head h5 {
+        text-align: center !important;
+    }
+
+    .Europe-head h2 {
+        text-align: center !important;
+        font-size: 32px !important;
+        line-height: 55px !important;
+    }
+
+    .Europe-head p {
+        text-align: center !important;
+    }
+
+    .Wanderlust-background h1 {
+        font-size: 64px !important;
+        line-height: 70px !important;
+    }
+
+    .Tour-Plans-head {
+        flex-direction: column;
+    }
+
+    .Tour-Plans-headimg img {
+        width: 100% !important;
+    }
+
+    .Tour-Plans-img {
+        display: none;
+    }
+
+    .Tour-Plans-img1 {
+        flex-direction: column;
+    }
+
+    .Tour-Plans-2 {
+        text-align: center;
+    }
+
+    .Tour-Plans-2 h5 {
+        text-align: center !important;
+    }
+
+    .Tour-Plans-2 h2 {
+        text-align: center !important;
+        font-size: 32px !important;
+        line-height: 55px !important;
+    }
+
+    .Tour-Plans-2 p {
+        text-align: center !important;
+        width: 100% !important;
+    }
+
+    .gallery-head h2 {
+        font-size: 32px !important;
+        line-height: 55px !important;
+    }
+
+    .gallery {
+        display: grid;
+        grid-template-columns: repeat(1, 1fr) !important;
+        gap: 20px;
+        padding: 20px;
+        max-width: 1200px;
+        margin: auto;
+    }
+
+    /* about */
+
+    /* package */
+    .price-tour {
+        flex-direction: column;
+        height: 100% !important;
+        gap: 40px;
+        box-sizing: border-box;
+        padding: 20px !important;
+    }
+
+    .price-tour h4:hover {
+        padding: 10px;
+        background-color: #df6951;
+        color: #ffffff;
+        border-radius: 10px;
+    }
+
+    .Trending-sub-head {
+        flex-direction: column;
+        width: 100%;
+        gap: 52px;
+    }
+
+    .Trending-1-1 {
+        grid-template-columns: repeat(1, 1fr) !important;
+    }
+
+    .Trending-box-1 {
+        width: 92% !important;
+        height: 95% !important;
+    }
+
+    .Trending-box-1 img {
+        width: 100% !important;
+        height: 300px;
+        border-radius: 30px;
+    }
+
+    .pagination {
+        width: 95% !important;
+    }
+
+    .PlanYourTrip {
+        width: 100% !important;
+        height: 100% !important;
+    }
+
+    .planinput h6 {
+        width: 100% !important;
+    }
+
+    .PlanYourTrip h4 {
+        font-size: 32px !important;
+    }
+
+    .plan-img img {
+        width: 100%;
+        margin-top: 20px;
+    }
+
+    /* package */
+
+    /* tourdetails */
+    .tourdetails-2 {
+        flex-direction: column;
+        height: 100% !important;
+        box-sizing: border-box;
+        padding: 40px 20px !important;
+        gap: 40px;
+    }
+
+    .tour-detail-head {
+        flex-direction: column;
+        padding: 30px 10px !important;
+    }
+
+    .tour-detail {
+        width: 100% !important;
+    }
+
+    .tourdetail-text-1 {
+        flex-direction: column;
+        gap: 25px !important;
+        margin: 0 0 20px 0 !important;
+    }
+
+    .tourdetail-text-1-sub {
+        justify-content: center;
+    }
+
+    .tour-detail p {
+        text-align: center !important;
+    }
+
+    .tourdetail-text-2 h5 {
+        font-size: 14px !important;
+    }
+
+    .tourdetail-text-2 p {
+        font-size: 11px !important;
+        width: 50% !important;
+        /* white-space: nowrap; */
+    }
+
+    .include-1-1 {
+        display: flex;
+        flex-direction: column;
+        gap: 20px !important;
+        padding: 0 0 0 50px !important;
+    }
+
+    .include1-2 {
+        display: grid;
+        grid-template-columns: repeat(1, 1fr) !important;
+        gap: 15px !important;
+        width: 40% !important;
+    }
+
+    .tourdetail-4 {
+        text-align: center;
+    }
+
+    .gallery-images {
+        padding: 0 18px;
+        display: grid;
+        grid-template-columns: repeat(1, 1fr) !important;
+    }
+
+    .bookthistour-1 {
+        width: 100% !important;
+        height: 100%;
+    }
+
+    .tourform-group-1 {
+        width: 100% !important;
+        flex-direction: column;
+        height: 100% !important;
+    }
+
+    .bookthistour-1 input {
+        text-align: center !important;
+        width: 100%;
+    }
+
+    .tourplan-1sub {
+        gap: 15px !important;
+        flex-direction: column;
+    }
+
+    .tour-detail-head-2 {
+        box-sizing: border-box;
+        padding: 20px !important;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .tourplan-content {
+        width: 100% !important;
+    }
+
+    .dotted-line {
+        display: none;
+    }
+
+    .tour-detail-head-3 {
+        padding: 20px !important;
+        flex-direction: column;
+    }
+
+    .tourdetailhead-4 {
+        padding: 20px !important;
+        flex-direction: column;
+    }
+
+    .gallery-images-1 {
+        display: grid;
+        grid-template-columns: 1fr !important;
+        grid-template-rows: auto !important;
+        gap: 10px;
+        width: 100% !important;
+    }
+
+    .gallery-images-1 img {
+        width: 100% !important;
+        height: auto !important;
+    }
+
+    .gallery-images-1 img:nth-child(4),
+    .gallery-images-1 img:nth-child(5),
+    .gallery-images-1 img:nth-child(6),
+    .gallery-images-1 img:nth-child(7) {
+        grid-row: auto !important;
+        grid-column: auto !important;
+    }
+
+
+    /* tourdetails */
+
+    .footer {
+        width: 100%;
+        text-align: center;
+    }
+
+    .footer-1 {
+        flex-direction: column;
+        text-align: center;
+        justify-content: center !important;
+    }
+
+    .footer-2 {
+        width: 100% !important;
+        margin-bottom: 15px;
+    }
+
+    .footer-2 p {
+        text-align: center !important;
+    }
+
+    .footer-logs {
+        justify-content: center;
+    }
+
+    .footer-3 {
+        margin-bottom: 20px;
+    }
+
+    .footer-3 h5 {
+        text-align: center !important;
+    }
+
+    .footer-3 p {
+        text-align: center !important;
+    }
+
+    .footer-4 h5 {
+        text-align: center !important;
+    }
+
+    .footer-4-1 {
+        width: 100% !important;
+        gap: 0px !important;
+        flex-direction: column;
+    }
+
+    .footer-4 p {
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 28px;
+        letter-spacing: -0.02em;
+        text-align: center !important;
+        margin: 70px 0 0 0 !important;
+        color: #757095;
+        width: 100% !important;
+    }
+
+
+}
